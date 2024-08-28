@@ -16,7 +16,7 @@ html {
 /* Styling first div */
 
 .bg-image {
-  background-image: url(images/elon_background.jpg);
+  background-image: url(elon_background.jpg);
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
